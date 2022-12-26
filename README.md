@@ -1,11 +1,11 @@
 # lets-common.log
 파일 하나로 만듬
 
-<h1>#from Your_Folder_name import logUtils as log</h1>
-<h1>from lets_common_log import logUtils as log</h1>
+<a>#from Your_Folder_name import logUtils as log</a>
+<a>from lets_common_log import logUtils as log</a>
 <br>
-<h1>log.info("Text")</h1>
-<h1>log.warning("Text")</h1> 
-<h1>log.error("Text")</h1> 
-<h1>log.chat("Text")</h1> 
-<h1>log.debug("Text")</h1> 
+<a>log.info("Text")</a>
+<a>log.warning("Text")</a> 
+<a>log.error("Text")</a> 
+<a>log.chat("Text")</a> 
+<a>log.debug("Text")</a> 
