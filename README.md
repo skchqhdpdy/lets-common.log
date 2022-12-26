@@ -9,7 +9,7 @@
 <br>
 <br>
 <p>log.info("Text")</p>
-<p>log.wprning("Text")</p>
+<p>log.warning("Text")</p>
 <p>log.error("Text")</p>
-<p>log.chpt("Text")</p>
+<p>log.chat("Text")</p>
 <p>log.debug("Text")</p>
