@@ -7,7 +7,12 @@ from lets_common_log import logUtils as log
 
 
 log.info("Text")
+
 log.warning("Text")
+
 log.error("Text")
+
 log.chat("Text")
+
 log.debug("Text")
+
