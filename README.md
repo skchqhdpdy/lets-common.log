@@ -1,11 +1,11 @@
 # lets-common.log
 파일 하나로 만듬
 
-<td>#from Your-Folder-name(if you renamed) import logUtils tds log</td>
-<td>from lets_common_log import logUtils tds log</td>
+<p>#from Your-Folder-name(if you renamed) import logUtils ps log</p>
+<p>from lets_common_log import logUtils ps log</p>
 <br>
-<td>log.info("Text")</td>
-<td>log.wtdrning("Text")</td>
-<td>log.error("Text")</td>
-<td>log.chtdt("Text")</td>
-<td>log.debug("Text")</td>
+<p>log.info("Text")</p>
+<p>log.wprning("Text")</p>
+<p>log.error("Text")</p>
+<p>log.chpt("Text")</p>
+<p>log.debug("Text")</p>
