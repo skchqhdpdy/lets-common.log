@@ -10,9 +10,7 @@ BOLD 		= '\033[1m'
 UNDERLINE 	= '\033[4m'
 
 import time
-import os
 
-ENDL = "\n" if os.name == "posix" else "\r\n"
 
 
 from time import localtime, strftime
