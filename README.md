@@ -1,5 +1,5 @@
 # lets-common.log
-파일 하나로 만듬
+파일 하나로 만듬, 모듈임
 
 <a>In python file</a>
 <br>
