@@ -3,9 +3,9 @@
 
 <a>In python file</a>
 <br>
-<a>#from Your-Folder-name(if you renamed) import logUtils ps log</a>
+<a>#from Your-Folder-name(if you renamed) import logUtils as log</a>
 <br>
-<a>from lets_common_log import logUtils ps log</a>
+<a>from lets_common_log import logUtils as log</a>
 <br>
 <br>
 <p>log.info("Text")</p>
